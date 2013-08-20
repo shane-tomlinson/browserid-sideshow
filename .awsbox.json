@@ -1,7 +1,7 @@
 {
   "processes": [ "bin/sideshow.js" ],
   "env": {
-    "CONFIG_FILES": "$HOME/config.json",
-    "PERSONA_URL": "https://login.dev.anosrep.org"
+    "CONFIG_FILES": "$HOME/config.json,$HOME/code/config.json",
+    "PERSONA_URL": "https://google-oauth.personatest.org"
   }
 }

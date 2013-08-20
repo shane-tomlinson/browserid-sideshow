@@ -1,0 +1,11 @@
+{
+  "server": {
+    "publicUrl": "https://google-oauth-idp.personatest.org",
+    "personaUrl": "https://google-oauth.personatest.org"
+  },
+  "google": {
+    "clientId": "299766103121.apps.googleusercontent.com",
+    "clientSecret": "AYjVfVllXnphoYQ0y9Fju8iu"
+  }
+}
+
